@@ -1,12 +1,7 @@
----
-layout: post
-title: Assemblea Districte 1
----
-
-<!---
 
 # Informació General
 
+* Web: [https://assemblealhdistricte1.github.io/Documents](https://assemblealhdistricte1.github.io/Documents/)
 * Mail: [assamblealhdistricte1@gmail.com](mailto:assamblealhdistricte1@gmail.com)
 * Twitter: [@AssembleaLHdis1](https://twitter.com/AssembleaLHdis1)
 * Telegram: [Assemblea L'H Districte1](https://t.me/assambleaLHdistricte1)
@@ -36,10 +31,6 @@ En aquesta carpeta podeu trobar les imatges, cartells, etc que s'han creat a l'a
 ### Documents
 
 En aquesta carpeta podeu trobar documents diversos, com per exemple l'estat de les comissions, totes les accions que s'han fet, etc.
-
---->
-
-<!--- AQUÍ COMENÇA LA WEB --->
 
 
 
