@@ -1,8 +1,4 @@
-# Documents
-
-Aquí penjarem tots els documents que siguin públics de l'Assemblea del Districte 1 d'Hospitalet de Llobregat.
-
-## Informació General
+# Informació General
 
 * Mail: [assamblealhdistricte1@gmail.com](mailto:assamblealhdistricte1@gmail.com)
 * Twitter: [@AssembleaLHdis1](https://twitter.com/AssembleaLHdis1)
