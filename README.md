@@ -1,3 +1,5 @@
+<!---
+
 # Informació General
 
 * Mail: [assamblealhdistricte1@gmail.com](mailto:assamblealhdistricte1@gmail.com)
@@ -29,3 +31,9 @@ En aquesta carpeta podeu trobar les imatges, cartells, etc que s'han creat a l'a
 ### Documents
 
 En aquesta carpeta podeu trobar documents diversos, com per exemple l'estat de les comissions, totes les accions que s'han fet, etc.
+
+AQUÍ COMENÇA LA WEB
+
+--->
+
+
