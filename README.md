@@ -1,3 +1,8 @@
+---
+layout: post
+title: Assemblea Districte 1
+---
+
 <!---
 
 # Informació General
@@ -32,8 +37,9 @@ En aquesta carpeta podeu trobar les imatges, cartells, etc que s'han creat a l'a
 
 En aquesta carpeta podeu trobar documents diversos, com per exemple l'estat de les comissions, totes les accions que s'han fet, etc.
 
-AQUÍ COMENÇA LA WEB
-
 --->
+
+<!--- AQUÍ COMENÇA LA WEB --->
+
 
 
